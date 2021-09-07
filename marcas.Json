@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Saab",
+        "codigo": "50"
+    },
+    {
+        "nome": "Saturn",
+        "codigo": "51"
+    },
+    {
+        "nome": "Seat",
+        "codigo": "52"
+    },
+    {
+        "nome": "SHINERAY",
+        "codigo": "183"
+    },
+    {
+        "nome": "SSANGYONG",
+        "codigo": "125"
+    },
+    {
+        "nome": "Subaru",
+        "codigo": "54"
+    },
+    {
+        "nome": "Suzuki",
+        "codigo": "55"
+    }
+]
